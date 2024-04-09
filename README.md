@@ -20,6 +20,7 @@ This task requires continuous development of skills such as teamwork, leadership
 
    ✅ Javascript
 - 👀I've an interest in:
+- 
    ✅ Selenium
   
    ✅ Web scraping
