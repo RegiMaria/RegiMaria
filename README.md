@@ -5,17 +5,30 @@ This task requires continuous development of skills such as teamwork, leadership
 
 - 🔭 I’m currently working as teacher
 - 🌱 I’m currently learning:
-          ✅ Python
-          ✅ Django
-          ✅ SQL
-          ✅ HTML
-          ✅ CSS
-          ✅ Javascript
+  
+   ✅ Python
+
+   ✅ Django
+
+   ✅ SQL  ✅ Oracle ✅ PostgreSQL
+  
+   ✅ MongoDB 
+
+   ✅ HTML
+
+   ✅ CSS
+
+   ✅ Javascript
 - 👀I've an interest in:
-          ✅ Selenium
-          ✅ Web scraping
-          ✅ ETL
-          ✅ EDA
+   ✅ Selenium
+  
+   ✅ Web scraping
+
+   ✅ SQL ✅ PostgreSQL ✅ Oracle
+
+   ✅ ETL
+
+   ✅ EDA
   
           
           
