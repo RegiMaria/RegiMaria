@@ -8,7 +8,7 @@ This task requires continuous development of skills such as teamwork, leadership
   
    ✅ Python
 
-   ✅ Django
+   ✅ Django/ Flask
 
    ✅ SQL  ✅ Oracle ✅ PostgreSQL
   
