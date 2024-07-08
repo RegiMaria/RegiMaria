@@ -8,28 +8,24 @@ This task requires continuous development of skills such as teamwork, leadership
   
    ✅ Python
 
-   ✅ Django/ Flask
-
    ✅ SQL  ✅ Oracle ✅ PostgreSQL
   
    ✅ MongoDB 
 
-   ✅ HTML
+   ✅ Relational and Dimensional Database Theory
 
-   ✅ CSS
+   ✅ Apache Spark
 
-   ✅ Javascript
+   ✅ Apache Airflow
+
+   ✅ Data architecture on AWS (S3, Redshift, Glue, Lambda)
+
 - 👀I've an interest in:
-- 
-   ✅ Selenium
-  
-   ✅ Web scraping
 
-   ✅ SQL ✅ PostgreSQL ✅ Oracle
+ ✅ Pursuing a career as a Data Engineer.
 
-   ✅ ETL
-
-   ✅ EDA
+ ✅ Databricks 
+   
   
           
           
