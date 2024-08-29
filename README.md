@@ -36,7 +36,7 @@ This task requires continuous development of skills such as teamwork, leadership
 
 📌Latest blog post in DIO:
 
-<a href = "https://www.dio.me/articles/teorema-cap-e-a-arquitetura-moderna-de-sistemas-distribuidos"> CAP Theorem and Distributed Systems Architecture </a>
+🐣 <a href = "https://www.dio.me/articles/teorema-cap-e-a-arquitetura-moderna-de-sistemas-distribuidos"> CAP Theorem and Distributed Systems Architecture </a>
 
 🐣 <a href = "https://www.dio.me/articles/otmizando-desempenho-no-spark-pensando-sobre-shuffling-narrow-and-wide-transformation-h4">SPARK OPTMIZED: Thinking about Shuffling, Narrow and Wide Transformation</a>
 
