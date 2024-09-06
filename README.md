@@ -41,6 +41,8 @@ This task requires continuous development of skills such as teamwork, leadership
 
 🐣 <a href = "https://www.dio.me/articles/propriedades-dos-bancos-de-dados-base-x-acid"> BASE X ACID : Database propeties </a>
 
+🐣 <a href="https://www.dio.me/articles/arquitetura-medalhao-um-conceito-databricks"> Medallion Architectur: a DataBricks concept </a>
+
 🐣 <a href = "https://www.dio.me/articles/teorema-cap-e-a-arquitetura-moderna-de-sistemas-distribuidos"> CAP Theorem and Distributed Systems Architecture </a>
 
 🐣 <a href = "https://www.dio.me/articles/otmizando-desempenho-no-spark-pensando-sobre-shuffling-narrow-and-wide-transformation-h4">SPARK OPTMIZED: Thinking about Shuffling, Narrow and Wide Transformation</a>
@@ -52,8 +54,6 @@ This task requires continuous development of skills such as teamwork, leadership
 🐣 <a href = "https://www.dio.me/articles/gerenciamento-de-banco-de-dados-tipos-de-processamento-de-dados-e-requisitos-de-negocio-X70LAV"> Tipos de processamento de dados e Requisitos de Negócio </a>
 
 🐣 <a href= "https://web.dio.me/articles/conversao-de-tipos-em-python-while-true-ou-try-except-para-iniciantes?back=%2Farticles&page=1&order=oldest"> Para iniciantes: Conversão de tipos em Python </a> 
-
-🐣 <a href="https://web.dio.me/articles/selenium-for-begginers?back=%2Farticles&page=1&order=oldest">Para iniciantes: Selenium </a>
 
 🐣 <a href = "https://web.dio.me/articles/mulheres-em-areas-tech-meninos-sao-bons-em-matematica-e-meninas-em-escrita?back=%2Farticles&page=1&order=oldest">Mulheres em tecnologia: Meninos são bons em matemática e meninas em escrita? </a>
 
