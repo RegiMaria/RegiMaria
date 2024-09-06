@@ -8,11 +8,13 @@ This task requires continuous development of skills such as teamwork, leadership
   
    ✅ Python
 
-   ✅ SQL  ✅ Oracle ✅ PostgreSQL
+   ✅ SQL  
   
-   ✅ MongoDB 
+   ✅  Oracle ✅ PostgreSQL ✅SQLSERVER ✅MongoDB 
 
    ✅ Relational and Dimensional Database Theory
+
+   ✅ Medallion Architecture
 
    ✅ Apache Spark
 
@@ -20,11 +22,12 @@ This task requires continuous development of skills such as teamwork, leadership
 
    ✅ Data architecture on AWS (S3, Redshift, Glue, Lambda)
 
+   ✅ Power BI
+
 - 👀I've an interest in:
 
- ✅ Pursuing a career as a Data Engineer.
+ ✅ Pursuing a career in Data
 
- ✅ Databricks 
    
   
           
