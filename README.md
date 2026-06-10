@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a7ba0bee-ef63-4692-9d7d-7deef20bed25" width="300"/>
+</div>
+
 ## 💜  Hi, I'm Regilene Mariano
 
 **Data Engineer** · former teacher for almost 20 years · passionate about data, AI and lifelong learning
@@ -12,6 +16,19 @@
 🎓 Postgraduate in Data Science · MBA in Agents, LLM & RAG in progress at FIAP · currently studying Mathematics.
 
 📐 I believe math is the language of data and it is never too late to become fluent in it.
+
+
+
+<div align="center">
+
+*if you like what i do, maybe consider buying me a coffee/tea 🧚🏾‍♀️*
+
+<a href="https://buymeacoffee.com/regimaria">
+  <img src="https://github.com/user-attachments/assets/cd309348-6eff-4822-9132-1e3aabf8440b" width="220"/>
+</a>
+
+</div>
+
 
 
 ## 💼 Experience
@@ -67,3 +84,17 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/1ee31a3c-f752-4e27-bd0c-4bab2d6f61bf" width="80"/>
+
+<br/>
+
+*I love connecting with different people so if you want to say hi, I'll be happy to meet you more!*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RegiMaria&color=blueviolet&style=for-the-badge&label=VISITORS"/>
+
+</div>
