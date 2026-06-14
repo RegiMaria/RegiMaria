@@ -50,6 +50,8 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 ## ✍️ Latest Articles
 
+💜 [MCP e Tool Calling for beginners](https://www.linkedin.com/pulse/mcp-e-tool-calling-para-iniciantes-regilene-mariano-pwi1f/?trackingId=vX78Ddd5QlW4o2tbsxThKQ%3D%3D)
+
 💜 [Eval Gates, Guardrails & Ratchet Mechanism: functional correctness gates para AI-generated code](https://www.linkedin.com/pulse/eval-gates-guardrails-quality-ratchet-mechanism-para-code-mariano-eljhc/)
 
 💜 [Mapeamento de Experiências: que experiência o cliente precisa ter para atingir o resultado da compra?](https://www.linkedin.com/pulse/mapeamento-de-experi%C3%AAncias-que-experi%C3%AAncia-o-cliente-precisa-mariano-dbbsf/)
