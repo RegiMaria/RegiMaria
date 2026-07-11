@@ -46,9 +46,13 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regilene-mariano-a973722a4/)
 
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@regimariano)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regimaria015@gmail.com)
 
 ## ✍️ Latest Articles
+
+🧡  [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
 
 💜 [MCP e Tool Calling for beginners](https://www.linkedin.com/pulse/mcp-e-tool-calling-para-iniciantes-regilene-mariano-pwi1f/?trackingId=vX78Ddd5QlW4o2tbsxThKQ%3D%3D)
 
