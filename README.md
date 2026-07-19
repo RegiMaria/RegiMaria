@@ -81,8 +81,59 @@ https://stars.github.com/nominate/
 </tr>
 </table>
 
+<hr>
 
-## ✍️ Latest Articles
+<hr>
+
+<h2 align="center">✨ Atividades ✨</h2>
+
+<hr>
+
+<table>
+<tr>
+<th align="center">Toda última quinta do mês</th>
+<th width="40"></th>
+<th align="center">Todo sábado</th>
+</tr>
+
+<tr>
+
+<td align="center" valign="top">
+
+<img src="https://github.com/user-attachments/assets/cefd1d59-aa76-40b3-b9da-0240986e0d73" width="360">
+
+<br><br>
+
+🔗 <a href="https://www.linkedin.com/in/regilene-mariano-a973722a4/">Me chama no LinkedIn</a>
+
+</td>
+
+<td></td>
+
+<td align="center" valign="top">
+
+<img src="https://github.com/user-attachments/assets/0ae08645-a9f6-4386-84a0-41ff35c0d94a" width="360">
+
+<br><br>
+
+<div align="left">
+
+🔗 <a href="https://www.linkedin.com/in/regilene-mariano-a973722a4/">Me chama no LinkedIn</a><br><br>
+
+📂 <a href="https://github.com/Starlight-git-project">Projetos em Engenharia de Dados</a><br><br>
+
+📂 <a href="https://github.com/aws-projects-lab">Projetos em AWS</a><br><br>
+
+📂 <a href="https://github.com/Python-plancton">Python para Iniciantes</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+✍️ Latest Articles
 
 🧡  [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
 
