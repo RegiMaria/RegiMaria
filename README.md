@@ -50,6 +50,38 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regimaria015@gmail.com)
 
+---
+<table>
+<tr>
+<td width="140" align="center">
+
+<img src="https://github.com/user-attachments/assets/a419ad13-7070-438a-958f-b8fedb61d326" width="120" alt="GitHub Star Badge"/>
+
+</td>
+<td valign="top">
+
+## ⭐ Nominate a Star
+
+💡 Ajude a reconhecer meu trabalho open source!
+
+🚀 Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**.
+
+🌐 O programa destaca pessoas que contribuem ativamente com a comunidade open source no GitHub.
+
+🔗 **Indique aqui:**  
+https://stars.github.com/nominate/
+
+### Sugestão
+
+> *I nominate **@regimaria** as a GitHub Star because she consistently shares her knowledge, creates open-source projects, and helps women  learn Data Engineering. Her contributions have had a positive impact on the community.*
+
+🌟 Muito obrigado pelo apoio! 🙌
+
+</td>
+</tr>
+</table>
+
+
 ## ✍️ Latest Articles
 
 🧡  [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
