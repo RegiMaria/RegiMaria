@@ -135,13 +135,13 @@ https://stars.github.com/nominate/
 
 ✍️ Latest Articles
 
-🧡  [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
+🧡 [Como transformar estudo técnico em evidência: Não apague a evidência do seu processo de estudo](https://open.substack.com/pub/regimariano/p/como-transformar-estudo-tecnico-em?r=6bj5ot&utm_campaign=post&utm_medium=email) 
+
+🧡 [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
 
 💜 [MCP e Tool Calling for beginners](https://www.linkedin.com/pulse/mcp-e-tool-calling-para-iniciantes-regilene-mariano-pwi1f/?trackingId=vX78Ddd5QlW4o2tbsxThKQ%3D%3D)
 
 💜 [Eval Gates, Guardrails & Ratchet Mechanism: functional correctness gates para AI-generated code](https://www.linkedin.com/pulse/eval-gates-guardrails-quality-ratchet-mechanism-para-code-mariano-eljhc/)
-
-💜 [Mapeamento de Experiências: que experiência o cliente precisa ter para atingir o resultado da compra?](https://www.linkedin.com/pulse/mapeamento-de-experi%C3%AAncias-que-experi%C3%AAncia-o-cliente-precisa-mariano-dbbsf/)
 
 📌 You might also like
 
