@@ -6,18 +6,15 @@
 
 **Data Engineer** · former teacher for almost 20 years · passionate about data, AI and lifelong learning
 
+🧭 **About me**
 
-🧭 About me
-
-🏫 I was a teacher for almost 20 years:I learned that teaching is, at its core, turning data into meaning for people.
+🏫 I was a teacher for almost 20 years: I learned that teaching is, at its core, turning data into meaning for people.
 
 ⚙️ Today I work as a Data Engineer, building pipelines, automating workflows and exploring the cloud universe.
 
 🎓 Postgraduate in Data Science · MBA in Agents, LLM & RAG in progress at FIAP · currently studying Mathematics.
 
 📐 I believe math is the language of data and it is never too late to become fluent in it.
-
-
 
 <div align="center">
 
@@ -132,6 +129,29 @@ https://stars.github.com/nominate/
 
 </tr>
 </table>
+
+
+
+<h2 align="center">📸 Registros dos Encontros</h2>
+
+<p align="center"><sub>Mentorias, bate-papo técnico e encontros com profissionais da área</sub></p>
+
+<table>
+<tr>
+<td width="33%">
+<img src="https://github.com/user-attachments/assets/eff6e30b-7fc9-4171-8797-87ce84792de0" width="100%"/>
+</td>
+<td width="33%">
+<img src="https://github.com/user-attachments/assets/b251ad69-5df4-4d46-bce5-144e708a5af6" width="100%"/>
+</td>
+<td width="33%">
+<img src="https://github.com/user-attachments/assets/c172795b-6fe4-4913-abe3-1c6f489631ff" width="100%"/>
+</td>
+</tr>
+</table>
+
+<hr>
+
 
 ✍️ Latest Articles
 
