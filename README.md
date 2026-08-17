@@ -48,6 +48,51 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regimaria015@gmail.com)
 
 ---
+
+<h2 align="left">🏅 Cloud Quest Badges</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+<a href="https://www.credly.com/earner/earned/badge/442f696e-61ec-463d-95e9-d8a5f6f2c7b8">
+  <img src="https://github.com/user-attachments/assets/845c6020-9807-45b0-8c28-711402633fa8" width="150"/>
+</a>
+
+<br/>
+
+**AWS Cloud Quest: Cloud Practitioner**
+
+🔗 <a href="https://www.credly.com/earner/earned/badge/442f696e-61ec-463d-95e9-d8a5f6f2c7b8">Ver credencial</a>
+
+</td>
+<td align="center" width="200">
+
+<br/><br/>
+
+🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+<td align="center" width="200">
+
+<br/><br/>
+
+🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+</tr>
+</table>
+
+<hr>
+
 <table>
 <tr>
 <td width="140" align="center">
@@ -77,8 +122,6 @@ https://stars.github.com/nominate/
 </td>
 </tr>
 </table>
-
-<hr>
 
 <hr>
 
