@@ -26,8 +26,6 @@
 
 </div>
 
-
-
 ## 💼 Experience
 
 ▸ Data Engineer: data ingestion, transformation and orchestration pipelines in cloud environments
@@ -38,7 +36,8 @@
 
 ▸ Research & Technical Writing: articles on data architecture, Spark, data warehousing, distributed databases and more
 
-## 🤝 Let's connect!💜  Let's connect!
+## 🤝 Let's connect!
+
 I love exchanging ideas about data, AI and education. Find me here 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regilene-mariano-a973722a4/)
@@ -110,12 +109,12 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 🌐 O programa destaca pessoas que contribuem ativamente com a comunidade open source no GitHub.
 
-🔗 **Indique aqui:**  
+🔗 **Indique aqui:**
 https://stars.github.com/nominate/
 
 ### Sugestão
 
-> *I nominate **@regimaria** as a GitHub Star because she consistently shares her knowledge, creates open-source projects, and helps women  learn Data Engineering. Her contributions have had a positive impact on the community.*
+> *I nominate **@regimaria** as a GitHub Star because she consistently shares her knowledge, creates open-source projects, and helps women learn Data Engineering. Her contributions have had a positive impact on the community.*
 
 🌟 Muito obrigado pelo apoio! 🙌
 
@@ -124,56 +123,45 @@ https://stars.github.com/nominate/
 </table>
 
 <hr>
-
 <h2 align="center">✨ Atividades ✨</h2>
-
 <hr>
-
 <table>
 <tr>
 <th align="center">Toda última quinta do mês</th>
 <th width="40"></th>
 <th align="center">Todo sábado</th>
+<th width="40"></th>
+<th align="center">Aulão Databricks</th>
 </tr>
-
 <tr>
-
 <td align="center" valign="top">
-
 <img src="https://github.com/user-attachments/assets/cefd1d59-aa76-40b3-b9da-0240986e0d73" width="360">
-
 <br><br>
-
 🔗 <a href="https://www.linkedin.com/in/regilene-mariano-a973722a4/">Me chama no LinkedIn</a>
-
 </td>
-
 <td></td>
-
 <td align="center" valign="top">
-
 <img src="https://github.com/user-attachments/assets/0ae08645-a9f6-4386-84a0-41ff35c0d94a" width="360">
-
 <br><br>
-
 <div align="left">
-
 🔗 <a href="https://www.linkedin.com/in/regilene-mariano-a973722a4/">Me chama no LinkedIn</a><br><br>
-
 📂 <a href="https://github.com/Starlight-git-project">Projetos em Engenharia de Dados</a><br><br>
-
 📂 <a href="https://github.com/aws-projects-lab">Projetos em AWS</a><br><br>
-
 📂 <a href="https://github.com/Python-plancton">Python para Iniciantes</a>
-
 </div>
-
 </td>
-
+<td></td>
+<td align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/e4b08bca-0018-479d-9dae-4b975d39c0c2" width="360">
+<br><br>
+<div align="left">
+📅 Sábado<br><br>
+🕒 Hora: 15h40<br><br>
+🔗 Informações: Me chama no <a href="https://www.linkedin.com/in/regilene-mariano-a973722a4/">LinkedIn</a>
+</div>
+</td>
 </tr>
 </table>
-
-
 
 <h2 align="center">📸 Registros dos Encontros</h2>
 
@@ -195,10 +183,9 @@ https://stars.github.com/nominate/
 
 <hr>
 
-
 ✍️ Latest Articles
 
-🧡 [Como transformar estudo técnico em evidência: Não apague a evidência do seu processo de estudo](https://open.substack.com/pub/regimariano/p/como-transformar-estudo-tecnico-em?r=6bj5ot&utm_campaign=post&utm_medium=email) 
+🧡 [Como transformar estudo técnico em evidência: Não apague a evidência do seu processo de estudo](https://open.substack.com/pub/regimariano/p/como-transformar-estudo-tecnico-em?r=6bj5ot&utm_campaign=post&utm_medium=email)
 
 🧡 [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
 
@@ -213,7 +200,6 @@ https://stars.github.com/nominate/
 💜 [Visão geral -Pipeline RAG](https://www.linkedin.com/posts/regilene-mariano-a973722a4_rag-para-iniciantes-ugcPost-7445982696939343872-up6Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElhbpMBArdvM-VlNLHdZ_TVWP9xWIYTSTU)
 
 💜 [Guia maturidade RAG](https://www.linkedin.com/posts/regilene-mariano-a973722a4_rag-iniciantes-ugcPost-7457768086675554304-NKx7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElhbpMBArdvM-VlNLHdZ_TVWP9xWIYTSTU)
-
 
 ## 🛠️ Tools & Technologies
 
@@ -235,7 +221,6 @@ https://stars.github.com/nominate/
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 <div align="center">
 
