@@ -92,6 +92,54 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <hr>
 
+<h2 align="left">🏅 AWS Knowledge</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="200">
+
+<a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">
+  <img src="https://github.com/user-attachments/assets/8b050b24-8270-4a1b-b611-14d9763b9d83" width="150" alt="AWS Knowledge: Security Champion - Training Badge"/>
+</a>
+
+<br/>
+
+**AWS Knowledge: Security Champion - Training Badge**
+
+🔗 <a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">Ver credencial</a>
+
+</td>
+
+<td align="center" width="200">
+
+<br/><br/>
+
+🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+
+<td align="center" width="200">
+
+<br/><br/>
+
+🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
 <table>
 <tr>
 <td width="140" align="center">
