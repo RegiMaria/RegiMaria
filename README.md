@@ -69,7 +69,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <br/><br/>
 
-🔜
+⭐🔜
 
 <br/><br/>
 
@@ -80,7 +80,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <br/><br/>
 
-🔜
+⭐🔜
 
 <br/><br/>
 
@@ -89,6 +89,53 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 </td>
 </tr>
 </table>
+
+
+<h2 align="left">🏅 Simulearn Badges</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+<a href="https://www.credly.com/badges/d1ddab25-4c5e-4ef3-9754-590ff30dbe53/public_url">
+  <img src="https://github.com/user-attachments/assets/d649b591-e91d-4c15-a286-c12e08467a17" width="150" alt="AWS SimuLearn: Cloud Practitioner Badge"/>
+</a>
+
+<br/>
+
+**AWS SimuLearn - Cloud Practitioner**
+
+🔗 <a href="https://www.credly.com/badges/d1ddab25-4c5e-4ef3-9754-590ff30dbe53/public_url">Ver credencial</a>
+
+</td>
+<td align="center" width="200">
+
+<br/><br/>
+
+⭐🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+<td align="center" width="200">
+
+<br/><br/>
+
+⭐🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+
 
 <hr>
 
@@ -115,7 +162,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <br/><br/>
 
-🔜
+⭐🔜
 
 <br/><br/>
 
@@ -127,7 +174,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <br/><br/>
 
-🔜
+⭐🔜
 
 <br/><br/>
 
