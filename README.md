@@ -226,7 +226,7 @@ https://stars.github.com/nominate/
 <th width="40"></th>
 <th align="center">Todo sábado</th>
 <th width="40"></th>
-<th align="center">Aulão Databricks</th>
+<th align="center">Aulão Quinta-AWS</th>
 </tr>
 <tr>
 <td align="center" valign="top">
@@ -247,11 +247,11 @@ https://stars.github.com/nominate/
 </td>
 <td></td>
 <td align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/e4b08bca-0018-479d-9dae-4b975d39c0c2" width="360">
+<img src="https://github.com/user-attachments/assets/3fef7915-2c43-422c-8ed7-350cb88bb637" width="360">
 <br><br>
 <div align="left">
-📅 Sábado<br><br>
-🕒 Hora: 15h40<br><br>
+📅 Quinta-AWS <br><br>
+🕒 Hora: 19h30 <br><br>
 🔗 Informações: Me chama no <a href="https://www.linkedin.com/in/regilene-mariano-a973722a4/">LinkedIn</a>
 </div>
 </td>
