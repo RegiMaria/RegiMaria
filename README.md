@@ -52,10 +52,19 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <div align="center">
   <a href="https://github.com/RegiMaria/azure-challenge/tree/main/Engenheiro-DevOps">
-    <img src="https://github.com/user-attachments/assets/050ef5bb-51a3-4bb1-a8d2-112fd02f112d" width="450" alt="Trilha DevOps" />
+    <img src="https://github.com/user-attachments/assets/abcd6f80-3c32-4db6-b095-8a262702dc97" width="450" alt="Trilha DevOps" />
   </a>
 </div>
 
+---
+
+## Top repository:
+
+<div align="center">
+  <a href="https://github.com/RegiMaria/modelo-curriculo">
+    <img src="https://github.com/user-attachments/assets/10558333-80c7-49fa-8b14-add8769be724" width="450" alt="Trilha DevOps" />
+  </a>
+</div>
 
 ---
 
