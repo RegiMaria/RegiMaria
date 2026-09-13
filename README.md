@@ -48,11 +48,22 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 ---
 
+## What I'm studying now:
+
+<div align="center">
+  <a href="https://github.com/RegiMaria/azure-challenge/tree/main/Engenheiro-DevOps">
+    <img src="https://github.com/user-attachments/assets/050ef5bb-51a3-4bb1-a8d2-112fd02f112d" width="450" alt="Trilha DevOps" />
+  </a>
+</div>
+
+
+---
+
 <h2 align="left">🏅 Cloud Quest Badges</h2>
 
 <table align="center">
 <tr>
-<td align="center" width="200">
+<td align="center" width="150">
 
 <a href="https://www.credly.com/earner/earned/badge/442f696e-61ec-463d-95e9-d8a5f6f2c7b8">
   <img src="https://github.com/user-attachments/assets/845c6020-9807-45b0-8c28-711402633fa8" width="150"/>
@@ -65,7 +76,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 🔗 <a href="https://www.credly.com/earner/earned/badge/442f696e-61ec-463d-95e9-d8a5f6f2c7b8">Ver credencial</a>
 
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 
 <br/><br/>
 
@@ -76,7 +87,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 *Em breve*
 
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 
 <br/><br/>
 
@@ -95,22 +106,22 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <table align="center">
 <tr>
-<td align="center" width="200">
+<td align="center" width="150">
 
 <a href="https://www.credly.com/badges/d1ddab25-4c5e-4ef3-9754-590ff30dbe53/public_url">
   <img src="https://github.com/user-attachments/assets/d649b591-e91d-4c15-a286-c12e08467a17" width="150" alt="AWS SimuLearn: Cloud Practitioner Badge"/>
 </a>
-
 <br/>
+
 
 **AWS SimuLearn - Cloud Practitioner**
 
 🔗 <a href="https://www.credly.com/badges/d1ddab25-4c5e-4ef3-9754-590ff30dbe53/public_url">Ver credencial</a>
 
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 
-<br/><br/>
+<br/>
 
 ⭐🔜
 
@@ -119,7 +130,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 *Em breve*
 
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 
 <br/><br/>
 
@@ -133,18 +144,13 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 </tr>
 </table>
 
-<hr>
-
-
-
-<hr>
 
 <h2 align="left">🏅 AWS Knowledge</h2>
 
 <table align="center">
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="150">
 
 <a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">
   <img src="https://github.com/user-attachments/assets/8b050b24-8270-4a1b-b611-14d9763b9d83" width="150" alt="AWS Knowledge: Security Champion - Training Badge"/>
@@ -158,7 +164,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="150">
 
 <br/><br/>
 
@@ -170,7 +176,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="150">
 
 <br/><br/>
 
@@ -281,8 +287,6 @@ https://stars.github.com/nominate/
 ✍️ Latest Articles
 
 🧡 [Como transformar estudo técnico em evidência: Não apague a evidência do seu processo de estudo](https://open.substack.com/pub/regimariano/p/como-transformar-estudo-tecnico-em?r=6bj5ot&utm_campaign=post&utm_medium=email)
-
-🧡 [Destaque seu potencial - As vagas não pedem só experiência, pedem prova de que você tem o perfil certo](https://substack.com/home/post/p-206571769)
 
 💜 [MCP e Tool Calling for beginners](https://www.linkedin.com/pulse/mcp-e-tool-calling-para-iniciantes-regilene-mariano-pwi1f/?trackingId=vX78Ddd5QlW4o2tbsxThKQ%3D%3D)
 
