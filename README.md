@@ -201,6 +201,17 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 </table>
 
 <hr>
+<h2 align="left">🏅 Git & GitHub Foundations</h2> <table align="center"> <tr> <td align="center" width="200"> <a href="https://app.datacamp.com/learn/courses/introduction-to-git"> <img src="https://github.com/user-attachments/assets/073e2c64-c998-483f-bfbb-c7d1914eb654" width="150" alt="Introduction to Git - DataCamp"/> </a> <br/> **Introduction to Git** <br/> 🔗 <a href="https://app.datacamp.com/learn/courses/introduction-to-git">Ver curso</a> </td> <td align="center" width="150"> <br/><br/> ⭐🔜 <br/><br/> *Em breve* </td> <td align="center" width="150"> <br/><br/> ⭐🔜 <br/><br/> *Em breve* </td> </tr> </table>
+
+
+
+
+
+
+
+
+
+
 
 <table>
 <tr>
@@ -209,7 +220,10 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 <img src="https://github.com/user-attachments/assets/a419ad13-7070-438a-958f-b8fedb61d326" width="120" alt="GitHub Star Badge"/>
 
 </td>
+
 <td valign="top">
+
+
 
 ## ⭐ Nominate a Star
 
