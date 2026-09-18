@@ -201,9 +201,40 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 </table>
 
 <hr>
-<h2 align="left">🏅 Git & GitHub Foundations</h2> <table align="center"> <tr> <td align="center" width="200"> <a href="https://app.datacamp.com/learn/courses/introduction-to-git"> <img src="https://github.com/user-attachments/assets/073e2c64-c998-483f-bfbb-c7d1914eb654" width="150" alt="Introduction to Git - DataCamp"/> </a> <br/> **Introduction to Git** <br/> 🔗 <a href="https://app.datacamp.com/learn/courses/introduction-to-git">Ver curso</a> </td> <td align="center" width="150"> <br/><br/> ⭐🔜 <br/><br/> *Em breve* </td> <td align="center" width="150"> <br/><br/> ⭐🔜 <br/><br/> *Em breve* </td> </tr> </table>
 
+<h2 align="left">🏅 Git & GitHub Foundations</h2>
 
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://app.datacamp.com/learn/courses/introduction-to-git">
+        <img src="https://github.com/user-attachments/assets/073e2c64-c998-483f-bfbb-c7d1914eb654" width="150" alt="Introduction to Git - DataCamp"/>
+      </a>
+      <br/>
+      <b>Introduction to Git</b>
+      <br/>
+      🔗 <a href="https://app.datacamp.com/learn/courses/introduction-to-git">Ver curso</a>
+    </td>
+
+<td align="center" width="200">
+  <a href="https://app.datacamp.com/learn/courses/intermediate-git">
+    <img src="https://github.com/user-attachments/assets/5bc0837d-7185-4e1c-8a32-beee6615966f" width="150" alt="Intermediate Git - DataCamp"/>
+  </a>
+  <br/>
+  <b>Intermediate Git</b>
+  <br/>
+  🔗 <a href="https://app.datacamp.com/learn/courses/intermediate-git">Ver curso</a>
+</td>
+
+<td align="center" width="150">
+  <br/><br/>
+  ⭐🔜
+  <br/><br/>
+  <i>Em breve</i>
+</td>
+
+  </tr>
+</table>
 
 
 
