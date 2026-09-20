@@ -1,30 +1,23 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a7ba0bee-ef63-4692-9d7d-7deef20bed25" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6f5f0464-a616-4e6d-88ca-9753d282b32d" width="1000"/>
 </div>
 
-## 💜  Hi, I'm Regilene Mariano
+## 💜 Hi, I'm Regilene Mariano
 
-**Data Engineer** · former teacher for almost 20 years · passionate about data, AI and lifelong learning
+**Teacher** · almost 20 years in the classroom · now working in tech · passionate about teaching and lifelong learning
 
 🧭 **About me**
 
-🏫 I was a teacher for almost 20 years: I learned that teaching is, at its core, turning data into meaning for people.
+🏫 I was a teacher for almost 20 years: I believe knowledge transforms people's lives.
 
-⚙️ Today I work as a Data Engineer, building pipelines, automating workflows and exploring the cloud universe.
+⚙️ Today I work in tech, and I dedicate part of my time to teaching data literacy and cloud computing to women who are just starting out.
 
-🎓 Postgraduate in Data Science · MBA in Agents, LLM & RAG in progress at FIAP · currently studying Mathematics.
+🎓 Postgraduate in Data Science
 
-📐 I believe math is the language of data and it is never too late to become fluent in it.
+🌟 I'm the founder of **FirstCommit-m**, a community that empowers girls and women in tech, focused on data literacy and cloud education for those entering the field.
 
-<div align="center">
 
-*if you like what i do, maybe consider buying me a coffee/tea 🧚🏾‍♀️*
 
-<a href="https://buymeacoffee.com/regimaria">
-  <img src="https://github.com/user-attachments/assets/cd309348-6eff-4822-9132-1e3aabf8440b" width="220"/>
-</a>
-
-</div>
 
 ## 💼 Experience
 
@@ -39,6 +32,8 @@
 ## 🤝 Let's connect!
 
 I love exchanging ideas about data, AI and education. Find me here 👇
+
+[![Instagram](https://img.shields.io/badge/FirstCommit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/firstcommitmulher/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regilene-mariano-a973722a4/)
 
@@ -278,7 +273,7 @@ https://stars.github.com/nominate/
 </table>
 
 <hr>
-<h2 align="center">✨ Atividades ✨</h2>
+<h2 align="center">✨ Atividades da comunidade para mulheres ✨</h2>
 <hr>
 <table>
 <tr>
