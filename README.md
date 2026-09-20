@@ -211,6 +211,7 @@ I love exchanging ideas about data, AI and education. Find me here 👇
       🔗 <a href="https://app.datacamp.com/learn/courses/introduction-to-git">Ver curso</a>
     </td>
 
+
 <td align="center" width="200">
   <a href="https://app.datacamp.com/learn/courses/intermediate-git">
     <img src="https://github.com/user-attachments/assets/5bc0837d-7185-4e1c-8a32-beee6615966f" width="150" alt="Intermediate Git - DataCamp"/>
@@ -221,11 +222,14 @@ I love exchanging ideas about data, AI and education. Find me here 👇
   🔗 <a href="https://app.datacamp.com/learn/courses/intermediate-git">Ver curso</a>
 </td>
 
-<td align="center" width="150">
-  <br/><br/>
-  ⭐🔜
-  <br/><br/>
-  <i>Em breve</i>
+<td align="center" width="200">
+  <a href="https://app.datacamp.com/learn/courses/introduction-to-github-concepts">
+    <img src="https://github.com/user-attachments/assets/6b93377f-c318-496a-9493-867024b73abd" width="150" alt="Introduction to GitHub Concepts - DataCamp"/>
+  </a>
+  <br/>
+  <b>Introduction to GitHub Concepts</b>
+  <br/>
+  🔗 <a href="https://app.datacamp.com/learn/courses/introduction-to-github-concepts">Ver curso</a>
 </td>
 
   </tr>
