@@ -203,7 +203,11 @@ I love exchanging ideas about data, AI and education. Find me here 👇
   <tr>
     <td align="center" width="200">
       <a href="https://app.datacamp.com/learn/courses/introduction-to-git">
-        <img src="https://github.com/user-attachments/assets/073e2c64-c998-483f-bfbb-c7d1914eb654" width="150" alt="Introduction to Git - DataCamp"/>
+        <img
+          src="https://github.com/user-attachments/assets/073e2c64-c998-483f-bfbb-c7d1914eb654"
+          width="150"
+          alt="Introduction to Git - DataCamp"
+        />
       </a>
       <br/>
       <b>Introduction to Git</b>
@@ -214,7 +218,11 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <td align="center" width="200">
   <a href="https://app.datacamp.com/learn/courses/intermediate-git">
-    <img src="https://github.com/user-attachments/assets/5bc0837d-7185-4e1c-8a32-beee6615966f" width="150" alt="Intermediate Git - DataCamp"/>
+    <img
+      src="https://github.com/user-attachments/assets/5bc0837d-7185-4e1c-8a32-beee6615966f"
+      width="150"
+      alt="Intermediate Git - DataCamp"
+    />
   </a>
   <br/>
   <b>Intermediate Git</b>
@@ -224,7 +232,11 @@ I love exchanging ideas about data, AI and education. Find me here 👇
 
 <td align="center" width="200">
   <a href="https://app.datacamp.com/learn/courses/introduction-to-github-concepts">
-    <img src="https://github.com/user-attachments/assets/6b93377f-c318-496a-9493-867024b73abd" width="150" alt="Introduction to GitHub Concepts - DataCamp"/>
+    <img
+      src="https://github.com/user-attachments/assets/6b93377f-c318-496a-9493-867024b73abd"
+      width="150"
+      alt="Introduction to GitHub Concepts - DataCamp"
+    />
   </a>
   <br/>
   <b>Introduction to GitHub Concepts</b>
@@ -232,10 +244,50 @@ I love exchanging ideas about data, AI and education. Find me here 👇
   🔗 <a href="https://app.datacamp.com/learn/courses/introduction-to-github-concepts">Ver curso</a>
 </td>
 
+
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
+      <a href="https://app.datacamp.com/learn/courses/intermediate-github-concepts">
+        <img
+          src="https://github.com/user-attachments/assets/4fbb5156-fda0-45cf-8a50-007e79ef20cb"
+          width="150"
+          alt="Intermediate GitHub Concepts - DataCamp"
+        />
+      </a>
+      <br/>
+      <b>Intermediate GitHub Concepts</b>
+      <br/>
+      🔗 <a href="https://app.datacamp.com/learn/courses/intermediate-github-concepts">Ver curso</a>
+    </td>
+
+
+<td align="center" width="200">
+  <br/>
+  🏅
+  <br/>
+  <b>SOON</b>
+  <br/>
+  <sub>Coming soon...</sub>
+  <br/>
+  <br/>
+</td>
+
+<td align="center" width="200">
+  <br/>
+  🏅
+  <br/>
+  <b>SOON</b>
+  <br/>
+  <sub>Coming soon...</sub>
+  <br/>
+  <br/>
+</td>
+
+
   </tr>
 </table>
-
-
 
 
 
