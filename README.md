@@ -31,7 +31,7 @@
 
 ## 🤝 Let's connect!
 
-I love exchanging ideas about data, AI and education. Find me here 👇
+I love exchanging ideas about technology  education. Find me here 👇
 
 [![Instagram](https://img.shields.io/badge/FirstCommit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/firstcommitmulher/)
 
