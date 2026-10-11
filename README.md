@@ -149,47 +149,36 @@ I love exchanging ideas about technology  education. Find me here 👇
 </table>
 
 
-<h2 align="left">🏅 AWS Knowledge</h2>
+ <h2 align="left">🏅 AWS Knowledge</h2>
 
 <table align="center">
 <tr>
 
-<td align="center" width="150">
-
+<td align="center" width="180">
 <a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">
-  <img src="https://github.com/user-attachments/assets/8b050b24-8270-4a1b-b611-14d9763b9d83" width="150" alt="AWS Knowledge: Security Champion - Training Badge"/>
+<img src="https://github.com/user-attachments/assets/8b050b24-8270-4a1b-b611-14d9763b9d83" width="150" alt="AWS Knowledge: Security Champion - Training Badge"/>
 </a>
-
 <br/>
-
-**AWS Knowledge: Security Champion - Training Badge**
-
+<strong>AWS Knowledge: Security Champion</strong>
+<br/>
 🔗 <a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">Ver credencial</a>
-
 </td>
 
-<td align="center" width="150">
-
-<br/><br/>
-
-⭐🔜
-
-<br/><br/>
-
-*Em breve*
-
+<td align="center" width="180">
+<a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">
+<img src="https://github.com/user-attachments/assets/80da2f1c-942b-44cc-bcda-fcedad409ce1" width="150" alt="AWS Knowledge: Cloud Essentials"/>
+</a>
+<br/>
+<strong>AWS Knowledge: Cloud Essentials</strong>
+<br/>
+🔗 <a href="https://www.credly.com/badges/3a2937ad-2db8-4149-85d5-63e1dd46ba6e/public_url">Ver credencial</a>
 </td>
 
-<td align="center" width="150">
-
+<td align="center" width="180">
 <br/><br/>
-
 ⭐🔜
-
 <br/><br/>
-
-*Em breve*
-
+<em>Em breve</em>
 </td>
 
 </tr>
