@@ -149,7 +149,7 @@ I love exchanging ideas about technology  education. Find me here 👇
 </table>
 
 
- <h2 align="left">🏅 AWS Knowledge</h2>
+<h2 align="left">🏅 AWS Knowledge</h2>
 
 <table align="center">
 <tr>
@@ -181,6 +181,60 @@ I love exchanging ideas about technology  education. Find me here 👇
 <em>Em breve</em>
 </td>
 
+</tr>
+</table>
+
+
+<h2 align="left">🏅 AWS Educate</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+
+<a href="https://www.credly.com/earner/earned/badge/42571125-1d33-46c4-8eb7-5bcd3738e5fa">
+  <img src="https://github.com/user-attachments/assets/5f7d5e16-e967-405d-928c-f0815471aa5c" width="150" alt="AWS Educate Introduction to Cloud 101"/>
+</a>
+
+<br/>
+
+**AWS Educate: Introduction to Cloud 101**
+
+🔗 <a href="https://www.credly.com/earner/earned/badge/42571125-1d33-46c4-8eb7-5bcd3738e5fa">Ver credencial</a>
+
+</td>
+<td align="center" width="150">
+
+<br/><br/>
+
+⭐🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+<td align="center" width="150">
+
+<br/><br/>
+
+⭐🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
+<td align="center" width="150">
+
+<br/><br/>
+
+⭐🔜
+
+<br/><br/>
+
+*Em breve*
+
+</td>
 </tr>
 </table>
 
