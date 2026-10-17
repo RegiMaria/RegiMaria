@@ -219,13 +219,15 @@ I love exchanging ideas about technology  education. Find me here 👇
 
 <td align="center" width="150">
 
-<br/><br/>
+<a href="https://www.credly.com/earner/earned/badge/1e2be468-090c-4465-8be0-cc64fd17bb78">
+  <img src="https://github.com/user-attachments/assets/fd4707c5-29dd-42fa-9ac2-0a8d477ee4b3" width="150" alt="AWS Educate Introduction to Generative AI"/>
+</a>
 
-⭐🔜
+<br/>
 
-<br/><br/>
+**AWS Educate: Introduction to Generative AI**
 
-*Em breve*
+🔗 <a href="https://www.credly.com/earner/earned/badge/1e2be468-090c-4465-8be0-cc64fd17bb78">Ver credencial</a>
 
 </td>
 
@@ -242,6 +244,8 @@ I love exchanging ideas about technology  education. Find me here 👇
 </td>
 </tr>
 </table>
+
+
 
 <hr>
 
