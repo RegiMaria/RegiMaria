@@ -202,6 +202,21 @@ I love exchanging ideas about technology  education. Find me here 👇
 🔗 <a href="https://www.credly.com/earner/earned/badge/42571125-1d33-46c4-8eb7-5bcd3738e5fa">Ver credencial</a>
 
 </td>
+
+<td align="center" width="150">
+
+<a href="https://www.credly.com/earner/earned/badge/a4b2723d-22dd-49a6-90af-f48a54501ae2">
+  <img src="https://github.com/user-attachments/assets/4f4051a0-6951-4f68-9ecc-10d372f5e375" width="150" alt="AWS Educate Getting Started with Storage"/>
+</a>
+
+<br/>
+
+**AWS Educate: Getting Started with Storage**
+
+🔗 <a href="https://www.credly.com/earner/earned/badge/a4b2723d-22dd-49a6-90af-f48a54501ae2">Ver credencial</a>
+
+</td>
+
 <td align="center" width="150">
 
 <br/><br/>
@@ -213,17 +228,7 @@ I love exchanging ideas about technology  education. Find me here 👇
 *Em breve*
 
 </td>
-<td align="center" width="150">
 
-<br/><br/>
-
-⭐🔜
-
-<br/><br/>
-
-*Em breve*
-
-</td>
 <td align="center" width="150">
 
 <br/><br/>
